@@ -6,7 +6,7 @@ All the Kaggle competitions I competed in.
 **[Neutrino IceCube Challenge :ice_cube:](#neutrino-icecube-challenge-ice_cube)**<br>
 
 
-## Vesuvius Challenge :microscope:
+# Vesuvius Challenge :microscope:
 
 
 
@@ -26,6 +26,12 @@ Competition link: https://www.kaggle.com/competitions/icecube-neutrinos-in-deep-
 The goal of this competition is to predict a neutrino particle’s direction. You will develop a model based on data from the "IceCube" detector, which observes the cosmos from deep within the South Pole ice.
 
 
-- training notebook for the best model: 
+- EDA
+  - link: https://www.kaggle.com/code/viktorcikojevic/very-simple-eda-neutrino-trajectories
+  - Here I made an EDA for the competition. 
+- training
+  - link: https://www.kaggle.com/code/viktorcikojevic/transformer-model-train
+  - Here I perform preprocessing and training using Transformer architecture, which had a best score for me. 
 - evaluation notebook for the best model: 
+  - 
 
