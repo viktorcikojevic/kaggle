@@ -36,4 +36,4 @@ The goal of this competition is to predict a neutrino particle’s direction. Yo
   - Competition link: https://www.kaggle.com/code/viktorcikojevic/very-simple-eda-neutrino-trajectories
 
 - Public EDA notebook: https://www.kaggle.com/code/viktorcikojevic/transformer-model-train
-- Repo: https://github.com/viktorcikojevic/neutrino-challenge
+- Train notebook: https://www.kaggle.com/viktorcikojevic/transformer-model-train
