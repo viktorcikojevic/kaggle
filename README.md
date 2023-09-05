@@ -21,7 +21,7 @@ In this competition you are tasked with detecting ink from 3D X-ray scans and re
 
 - Repo: https://github.com/viktorcikojevic/vesuvius-challenge
 - I also have a "deprecated" branch here, which is basically the same code, but it is not as clean as the main branch. There, all the experiments were performed in notebooks and it's difficult to get back to it 😅: https://github.com/viktorcikojevic/vesuvius-challenge/tree/deprecated
-
+- Inference notebook: https://www.kaggle.com/code/viktorcikojevic/fork-of-ensemble-all-models?scriptVersionId=141978154
 
 
 # Neutrino IceCube Challenge :ice_cube:
@@ -35,5 +35,5 @@ The goal of this competition is to predict a neutrino particle’s direction. Yo
 
   - Competition link: https://www.kaggle.com/code/viktorcikojevic/very-simple-eda-neutrino-trajectories
 
-- Public EDA notebook: https://www.kaggle.com/code/viktorcikojevic/transformer-model-train
+- Public EDA notebook: [https://www.kaggle.com/code/viktorcikojevic/transformer-model-train](https://www.kaggle.com/code/viktorcikojevic/very-simple-eda-neutrino-trajectories)https://www.kaggle.com/code/viktorcikojevic/very-simple-eda-neutrino-trajectories
 - Train notebook: https://www.kaggle.com/viktorcikojevic/transformer-model-train
