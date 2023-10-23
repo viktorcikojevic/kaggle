@@ -13,7 +13,8 @@ All the Kaggle competitions I competed in. I make this list to make the codes pu
 # Kaggle LLM 2023 :woman_scientist:
 
 
-- In progress ... 
+- The competition was about fine-tuning LLMs to answer difficult science-based questions written by a Large Language Model. 74.5 \% percentile score on the Kaggle leaderboard.
+- Repo: https://github.com/viktorcikojevic/kaggle-llm
 
 
 # Hubmap 2023 :hospital:
