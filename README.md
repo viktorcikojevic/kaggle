@@ -3,7 +3,7 @@
 All the Kaggle competitions I competed in. I make this list to make the codes publicly available. 
 
 
-**[Kaggle LLM 2023 :woman_scientist:](#hubmap-2023-hospital)**<br> 
+**[Kaggle LLM 2023 :woman_scientist:](#kaggle-llm-2023-woman_scientist)**<br> 
 **[Hubmap 2023 :hospital:](#hubmap-2023-hospital)**<br> 
 **[:2nd_place_medal: Vesuvius Challenge :microscope:](#2nd_place_medal-vesuvius-challenge-microscope)**<br> 
 **[Neutrino IceCube Challenge :ice_cube:](#neutrino-icecube-challenge-ice_cube)**<br>
