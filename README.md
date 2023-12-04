@@ -5,7 +5,7 @@ All the Kaggle competitions I competed in. I make this list to make the codes pu
 
 **[Kaggle LLM 2023 :woman_scientist:](#kaggle-llm-2023-woman_scientist)**<br> 
 **[Hubmap 2023 :hospital:](#hubmap-2023-hospital)**<br> 
-**[:2nd_place_medal: Vesuvius Challenge :microscope:](#2nd_place_medal-vesuvius-challenge-microscope)**<br> 
+**[Vesuvius Challenge](#vesuvius-challenge)**<br> 
 **[Neutrino IceCube Challenge :ice_cube:](#neutrino-icecube-challenge-ice_cube)**<br>
 **[AMEX Default Prediction :bank:](#amex-default-prediction-bank)**<br>
 
@@ -25,10 +25,10 @@ All the Kaggle competitions I competed in. I make this list to make the codes pu
 - Lessons learned: the best model would have achieve bronze medal if submitted to the competition. Lesson learned: don't forget to ensemble your models when dealing with unknown test data distribution!
 
 
-# :2nd_place_medal: Vesuvius Challenge :microscope:
+# Vesuvius Challenge 
 
 
-- Our team won silver medal here, 39th place out of 1,249 teams 🥳
+- Our team of two won silver medal here, 39th place out of 1,249 teams 🥳🥈
 - It was a computer vision project, about detecting ink from 3D X-ray scans and reading the contents. Read more at the [comp. link here](https://www.kaggle.com/competitions/vesuvius-challenge-ink-detection).
 - Repo: https://github.com/viktorcikojevic/vesuvius-challenge
 - I also have a "deprecated" branch here, which is basically the same code, but it is not as clean as the main branch. There, all the experiments were performed in notebooks and it's difficult to get back to it 😅: https://github.com/viktorcikojevic/vesuvius-challenge/tree/deprecated
