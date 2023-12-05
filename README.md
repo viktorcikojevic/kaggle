@@ -9,7 +9,7 @@ All the Kaggle competitions I competed in. I make this list to make the codes pu
 - The goal of this competition is to detect sleep onset and wake. The goal was to develop a model trained on wrist-worn accelerometer data in order to determine a person's sleep state.
 - 32nd place out of 1,942 teams 🥳🥈
 - Competition link: https://www.kaggle.com/competitions/child-mind-institute-detect-sleep-states
-- Repo: [https://github.com/viktorcikojevic/kaggle-llm](https://github.com/viktorcikojevic/sleep-detect)
+- Repo: https://github.com/viktorcikojevic/sleep-detect
 
 # Kaggle LLM 2023 :woman_scientist:
 
