@@ -3,17 +3,19 @@
 All the Kaggle competitions I competed in. I make this list to make the codes publicly available. 
 
 
-**[Kaggle LLM 2023 :woman_scientist:](#kaggle-llm-2023-woman_scientist)**<br> 
-**[Hubmap 2023 :hospital:](#hubmap-2023-hospital)**<br> 
-**[Vesuvius Challenge](#vesuvius-challenge)**<br> 
-**[Neutrino IceCube Challenge :ice_cube:](#neutrino-icecube-challenge-ice_cube)**<br>
-**[AMEX Default Prediction :bank:](#amex-default-prediction-bank)**<br>
+# Child Mind Institute - Detect Sleep States 😴
 
+
+- The goal of this competition is to detect sleep onset and wake. The goal was to develop a model trained on wrist-worn accelerometer data in order to determine a person's sleep state.
+- 32nd place out of 1,942 teams 🥳🥈
+- Competition link: https://www.kaggle.com/competitions/child-mind-institute-detect-sleep-states
+- Repo: [https://github.com/viktorcikojevic/kaggle-llm](https://github.com/viktorcikojevic/sleep-detect)
 
 # Kaggle LLM 2023 :woman_scientist:
 
 
-- The competition was about fine-tuning LLMs to answer difficult science-based questions written by a Large Language Model. 74.5 \% percentile score on the Kaggle leaderboard.
+- The competition was about fine-tuning LLMs to answer difficult science-based questions written by a Large Language Model.
+- 74.5 \% percentile score on the Kaggle leaderboard.
 - Repo: https://github.com/viktorcikojevic/kaggle-llm
 
 
@@ -28,8 +30,9 @@ All the Kaggle competitions I competed in. I make this list to make the codes pu
 # Vesuvius Challenge 
 
 
-- Our team of two won silver medal here, 39th place out of 1,249 teams 🥳🥈
-- It was a computer vision project, about detecting ink from 3D X-ray scans and reading the contents. Read more at the [comp. link here](https://www.kaggle.com/competitions/vesuvius-challenge-ink-detection).
+
+- A computer vision project, about detecting ink from 3D X-ray scans and reading the contents. Read more at the [comp. link here](https://www.kaggle.com/competitions/vesuvius-challenge-ink-detection).
+- 39th place out of 1,249 teams 🥳🥈
 - Repo: https://github.com/viktorcikojevic/vesuvius-challenge
 - I also have a "deprecated" branch here, which is basically the same code, but it is not as clean as the main branch. There, all the experiments were performed in notebooks and it's difficult to get back to it 😅: https://github.com/viktorcikojevic/vesuvius-challenge/tree/deprecated
 - Inference notebook that led to the best score: https://www.kaggle.com/code/viktorcikojevic/fork-of-ensemble-all-models?scriptVersionId=141978154
